@@ -185,4 +185,4 @@ Aqui estão pontos práticos para guiar a implementação:
 <img src="https://github.com/JefersonManso/MoneyStack/blob/main/img04.png" width="600"/>
 
 
-
+LINK DO APP: https://ai.studio/apps/drive/12o8ob63YpijmId3e51U1YqzaBA4mqAt-
