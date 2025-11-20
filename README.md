@@ -167,4 +167,17 @@ Aqui estão pontos práticos para guiar a implementação:
 
 👉 Em resumo: **Design Universal = criar soluções inclusivas, acessíveis e fáceis de usar para todos.**
 
+<h2>🖼️ Galeria de Telas – MoneyStack</h2>
+
+<h3>💬 Chat com o Agente Financeiro</h3>
+<https://github.com/JefersonManso/MoneyStack/blob/main/img01.png>
+
+<h3>📊 Painel Geral</h3>
+<https://github.com/JefersonManso/MoneyStack/blob/main/img02.png>
+
+<h3>📁 Últimas Transações</h3>
+<https://github.com/JefersonManso/MoneyStack/blob/main/img03.png>
+
+<h3>🎯 Metas Financeiras</h3>
+<https://github.com/JefersonManso/MoneyStack/blob/main/img04.png>
 
