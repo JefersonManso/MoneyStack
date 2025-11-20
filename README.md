@@ -1,7 +1,7 @@
 # 💰 MoneyStack
 
 Um aplicativo de **Organização de Finanças Pessoais** que funciona por meio de conversas em linguagem natural.  
-A proposta é simplificar o controle financeiro sem formulários manuais ou planilhas complexas, oferecendo uma experiência fluida e integrada ao app do banco do usuário.
+A proposta é simplificar o controle financeiro sem formulários manuais ou planilhas complexas, oferecendo uma experiência fluida e integrada ao app do banco do usuário. O App foi criado na plataforma do GOOGLE AI Studio. https://aistudio.google.com/apps
 
 ---
 
